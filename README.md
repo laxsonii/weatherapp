@@ -18,8 +18,6 @@ Deployment
 
 GitHub Repository
   The code for the Weather Dashboard application is hosted on GitHub: https://github.com/laxsonii/Weather-App
-
-
 Installation
   To run the application locally, follow these steps:
   - Clone the repository to your local machine using git clone.
