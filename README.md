@@ -3,7 +3,7 @@ Mock-Up
 The following image shows the web application's appearance and functionality:
 
 
-![image](https://github.com/laxsonii/Weather-App/assets/164679238/b761d597-ecaf-4fcb-9b8b-e936d73182ef)
+![image](https://github.com/laxsonii/weatherapp/assets/164679238/33da0593-8812-4680-83d2-810e3a2079c6)
 
 
 Technologies Used
@@ -23,4 +23,3 @@ Installation
   - Clone the repository to your local machine using git clone.
   - Navigate into the cloned directory.
   - Open index.html in your preferred web browser.
-![image](https://github.com/laxsonii/weatherapp/assets/164679238/62735629-7422-488b-aaf5-66348c8b6823)
